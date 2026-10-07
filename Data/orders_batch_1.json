@@ -1,0 +1,4 @@
+{"order_id":101,"customer_id":1,"product_name":"Laptop","quantity":1,"amount":55000.0,"order_status":"PLACED","city":"Delhi","updated_at":"2026-10-01 09:00:00","operation":"I","change_timestamp":"2026-10-01 09:00:00"}
+{"order_id":102,"customer_id":2,"product_name":"Phone","quantity":2,"amount":40000.0,"order_status":"PLACED","city":"Mumbai","updated_at":"2026-10-01 09:05:00","operation":"I","change_timestamp":"2026-10-01 09:05:00"}
+{"order_id":103,"customer_id":3,"product_name":"Headphones","quantity":1,"amount":3000.0,"order_status":"PLACED","city":"Moradabad","updated_at":"2026-10-01 09:10:00","operation":"I","change_timestamp":"2026-10-01 09:10:00"}
+{"order_id":104,"customer_id":4,"product_name":"Keyboard","quantity":1,"amount":1500.0,"order_status":"PLACED","city":"Lucknow","updated_at":"2026-10-01 09:15:00","operation":"I","change_timestamp":"2026-10-01 09:15:00"}

@@ -1,0 +1,4 @@
+{"order_id":101,"customer_id":1,"product_name":"Laptop","quantity":1,"amount":55000.0,"order_status":"DELIVERED","city":"Delhi","updated_at":"2026-10-03 11:00:00","operation":"U","change_timestamp":"2026-10-03 11:00:00"}
+{"order_id":103,"customer_id":3,"product_name":"Headphones","quantity":1,"amount":3000.0,"order_status":"SHIPPED","city":"Moradabad","updated_at":"2026-10-03 11:05:00","operation":"U","change_timestamp":"2026-10-03 11:05:00"}
+{"order_id":101,"customer_id":1,"product_name":"Laptop","quantity":1,"amount":55000.0,"order_status":"SHIPPED","city":"Delhi","updated_at":"2026-10-02 10:00:00","operation":"U","change_timestamp":"2026-10-02 10:00:00"}
+{"order_id":106,"customer_id":6,"product_name":"Mouse","quantity":3,"amount":-900.0,"order_status":"PLACED","city":"Jaipur","updated_at":"2026-10-03 11:30:00","operation":"I","change_timestamp":"2026-10-03 11:30:00"}
